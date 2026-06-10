@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my learning materials, exercises, notes, and hands-on activities completed during the **AI Workshop organized by NASSCOM** at **VEDIC Vishnu Universal Learning**, Ghazib Nagar, Hyderabad.
+This repository contains learning materials, exercises, notes, and hands-on activities completed during the **AI Workshop organized by NASSCOM** at **VEDIC Vishnu Universal Learning**, Ghazib Nagar, Hyderabad.
 
 The objective of this repository is to systematically document daily learning outcomes, practical exercises, project activities, and key insights gained throughout the workshop.
 
